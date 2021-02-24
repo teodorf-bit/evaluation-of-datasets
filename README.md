@@ -12,4 +12,7 @@
 ### Corpus
 ### Reuters
 
+## ALGORITHMS
 
+#### Label Propagation
+#### Label Spreading
